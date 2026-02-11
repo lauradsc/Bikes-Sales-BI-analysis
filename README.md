@@ -1,9 +1,9 @@
 # Projeto BI - Análise de Vendas Loja de Bikes 🚴
 
-# 📍 Objetivo
+##📍 Objetivo
 Transformar dados de vendas em informações estratégicas para apoiar decisões comerciais futuras.
 
-#🛠 Tecnologias Utilizadas
+## 🛠 Tecnologias Utilizadas
 - **Power BI**: para análise e visualização de dados
 - **DAX**: fórmulas e cálculos para métricas personalizadas
 - **Base de dados fictícia**: simulando vendas e performance da loja
