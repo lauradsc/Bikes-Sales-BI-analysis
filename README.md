@@ -3,11 +3,11 @@
 # 📍 Objetivo
 Transformar dados de vendas em informações estratégicas para apoiar decisões comerciais futuras.
 
-# 🛠 Tecnologias Utilizadas
+<h1>🛠 Tecnologias Utilizadas</h1>
 - **Power BI**: para análise e visualização de dados
 - **DAX**: fórmulas e cálculos para métricas personalizadas
 - **Base de dados fictícia**: simulando vendas e performance da loja
-- 
+
 # 📊 Métricas Utilizadas
 - Total de Vendas
 - Quantidade Vendida
