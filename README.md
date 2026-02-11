@@ -7,7 +7,7 @@ Transformar dados de vendas em informações estratégicas para apoiar decisões
 - **Power BI**: para análise e visualização de dados
 - **DAX**: fórmulas e cálculos para métricas personalizadas
 - **Base de dados fictícia**: simulando vendas e performance da loja
-  
+
 ## 📊 Métricas Utilizadas
 - Total de Vendas
 - Quantidade Vendida
@@ -39,4 +39,3 @@ Identificação de períodos com maior volume de vendas, sugerindo oportunidades
 
 ## 💡 Conclusão
 A análise revela o impacto do uso de BI na geração de insights estratégicos e suporte à tomada de decisão.
-
