@@ -1,17 +1,22 @@
 # Projeto BI - Análise de Vendas Loja de Bikes 🚴
-## 📍 Objetivo
+
+# 📍 Objetivo
 Transformar dados de vendas em informações estratégicas para apoiar decisões comerciais futuras.
-## 🛠 Tecnologias Utilizadas
+
+# 🛠 Tecnologias Utilizadas
 - **Power BI**: para análise e visualização de dados
 - **DAX**: fórmulas e cálculos para métricas personalizadas
 - **Base de dados fictícia**: simulando vendas e performance da loja
-## 📊 Métricas Utilizadas
+- 
+# 📊 Métricas Utilizadas
 - Total de Vendas
 - Quantidade Vendida
 - Performance por Vendedor
 - Análise por Categoria
 - Evolução Temporal
-## 📝 Principais Insights
+
+# 📝 Principais Insights
+
 ### Crescimento Anual
 A empresa apresentou crescimento consistente entre 2021 e 2023, seguido de queda em 2024, indicando possível mudança de cenário ou período incompleto.
 ### Concentração de Receita
