@@ -1,6 +1,6 @@
 # Projeto BI - Análise de Vendas Loja de Bikes 🚴
 
-##📍 Objetivo
+## 📍 Objetivo
 Transformar dados de vendas em informações estratégicas para apoiar decisões comerciais futuras.
 
 ## 🛠 Tecnologias Utilizadas
@@ -15,7 +15,7 @@ Transformar dados de vendas em informações estratégicas para apoiar decisões
 - Análise por Categoria
 - Evolução Temporal
 
-##📝 Principais Insights
+## 📝 Principais Insights
 
 ### Crescimento Anual
 A empresa apresentou crescimento consistente entre 2021 e 2023, seguido de queda em 2024, indicando possível mudança de cenário ou período incompleto.
