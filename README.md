@@ -33,3 +33,6 @@ Identificação de períodos com maior volume de vendas, sugerindo oportunidades
 - Investigação da queda em 2024
 ## 💡 Conclusão
 A análise revela o impacto do uso de BI na geração de insights estratégicos e suporte à tomada de decisão.
+
+![Dashboard](preview/dashboard_preview.png)
+
