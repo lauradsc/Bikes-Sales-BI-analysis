@@ -1,8 +1,6 @@
 # Projeto BI - Análise de Vendas Loja de Bikes 🚴
 
-![Power BI](https://img.shields.io/badge/PowerBI-Data-blue)
-
-[Acesse as dashboards!](https://app.powerbi.com/view?r=eyJrIjoiNTY3Y2Y5ZGYtY2Y3ZC00NzdmLWI2MjMtOWZmMmI3ZTQwYmYwIiwidCI6IjA2ZWI0YjZmLWU2MjgtNGEwMS04MTlkLWFjZmNjNmIzZmVlNSJ9)
+[Acesse as Dashboards!](https://app.powerbi.com/view?r=eyJrIjoiNTY3Y2Y5ZGYtY2Y3ZC00NzdmLWI2MjMtOWZmMmI3ZTQwYmYwIiwidCI6IjA2ZWI0YjZmLWU2MjgtNGEwMS04MTlkLWFjZmNjNmIzZmVlNSJ9)
 
 ## 📍 Objetivo
 Transformar dados de vendas em informações estratégicas para apoiar decisões comerciais futuras.
