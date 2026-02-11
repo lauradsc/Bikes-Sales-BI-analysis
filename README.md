@@ -1,5 +1,7 @@
 # Projeto BI - Análise de Vendas Loja de Bikes 🚴
 
+[Acesse as Dashboards!](https://app.powerbi.com/view?r=eyJrIjoiNTY3Y2Y5ZGYtY2Y3ZC00NzdmLWI2MjMtOWZmMmI3ZTQwYmYwIiwidCI6IjA2ZWI0YjZmLWU2MjgtNGEwMS04MTlkLWFjZmNjNmIzZmVlNSJ9)
+
 ## 📍 Objetivo
 Transformar dados de vendas em informações estratégicas para apoiar decisões comerciais futuras.
 
@@ -33,3 +35,8 @@ Identificação de períodos com maior volume de vendas, sugerindo oportunidades
 - Investigação da queda em 2024
 ## 💡 Conclusão
 A análise revela o impacto do uso de BI na geração de insights estratégicos e suporte à tomada de decisão.
+
+![Dashboard](preview/dashboard_preview.png)
+![Dashboard](preview/analytics_preview.png)
+
+
